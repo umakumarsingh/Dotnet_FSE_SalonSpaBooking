@@ -1,0 +1,9 @@
+D:\IIHT\Task-13\MongoDb\Dotnet_FSE_SalonSpaBooking\SalonSpaBooking.Entities\bin\Debug\netcoreapp2.2\SalonSpaBooking.Entities.deps.json
+D:\IIHT\Task-13\MongoDb\Dotnet_FSE_SalonSpaBooking\SalonSpaBooking.Entities\bin\Debug\netcoreapp2.2\SalonSpaBooking.Entities.dll
+D:\IIHT\Task-13\MongoDb\Dotnet_FSE_SalonSpaBooking\SalonSpaBooking.Entities\bin\Debug\netcoreapp2.2\SalonSpaBooking.Entities.pdb
+D:\IIHT\Task-13\MongoDb\Dotnet_FSE_SalonSpaBooking\SalonSpaBooking.Entities\obj\Debug\netcoreapp2.2\SalonSpaBooking.Entities.AssemblyInfoInputs.cache
+D:\IIHT\Task-13\MongoDb\Dotnet_FSE_SalonSpaBooking\SalonSpaBooking.Entities\obj\Debug\netcoreapp2.2\SalonSpaBooking.Entities.AssemblyInfo.cs
+D:\IIHT\Task-13\MongoDb\Dotnet_FSE_SalonSpaBooking\SalonSpaBooking.Entities\obj\Debug\netcoreapp2.2\SalonSpaBooking.Entities.csproj.CoreCompileInputs.cache
+D:\IIHT\Task-13\MongoDb\Dotnet_FSE_SalonSpaBooking\SalonSpaBooking.Entities\obj\Debug\netcoreapp2.2\SalonSpaBooking.Entities.dll
+D:\IIHT\Task-13\MongoDb\Dotnet_FSE_SalonSpaBooking\SalonSpaBooking.Entities\obj\Debug\netcoreapp2.2\SalonSpaBooking.Entities.pdb
+D:\IIHT\Task-13\MongoDb\Dotnet_FSE_SalonSpaBooking\SalonSpaBooking.Entities\obj\Debug\netcoreapp2.2\SalonSpaBooking.Entities.csprojAssemblyReference.cache

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "SJu5moZDORd0P40bsp3jtdUWEhwO1/eJm5lIKuQQtH4NTt8EZ1CazbRWpg7dvgXh5gBiQxIfTJZAeHPooqt37A==",
+  "success": true,
+  "projectFilePath": "D:\\IIHT\\Code_Clean\\Dotnet_FSE_SalonSpaBooking\\SalonSpaBooking.Entities\\SalonSpaBooking.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KUMARUMA\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\KUMARUMA\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\KUMARUMA\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\KUMARUMA\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\KUMARUMA\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\KUMARUMA\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\KUMARUMA\\.nuget\\packages\\mongodb.bson\\2.11.5\\mongodb.bson.2.11.5.nupkg.sha512",
+    "C:\\Users\\KUMARUMA\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+D:\IIHT\Task-13\MongoDb\Dotnet_FSE_SalonSpaBooking\SalonSpaBooking.DataLayer\bin\Debug\netcoreapp2.2\SalonSpaBooking.DataLayer.deps.json
+D:\IIHT\Task-13\MongoDb\Dotnet_FSE_SalonSpaBooking\SalonSpaBooking.DataLayer\bin\Debug\netcoreapp2.2\SalonSpaBooking.DataLayer.dll
+D:\IIHT\Task-13\MongoDb\Dotnet_FSE_SalonSpaBooking\SalonSpaBooking.DataLayer\bin\Debug\netcoreapp2.2\SalonSpaBooking.DataLayer.pdb
+D:\IIHT\Task-13\MongoDb\Dotnet_FSE_SalonSpaBooking\SalonSpaBooking.DataLayer\bin\Debug\netcoreapp2.2\SalonSpaBooking.Entities.dll
+D:\IIHT\Task-13\MongoDb\Dotnet_FSE_SalonSpaBooking\SalonSpaBooking.DataLayer\bin\Debug\netcoreapp2.2\SalonSpaBooking.Entities.pdb
+D:\IIHT\Task-13\MongoDb\Dotnet_FSE_SalonSpaBooking\SalonSpaBooking.DataLayer\obj\Debug\netcoreapp2.2\SalonSpaBooking.DataLayer.csprojAssemblyReference.cache
+D:\IIHT\Task-13\MongoDb\Dotnet_FSE_SalonSpaBooking\SalonSpaBooking.DataLayer\obj\Debug\netcoreapp2.2\SalonSpaBooking.DataLayer.AssemblyInfoInputs.cache
+D:\IIHT\Task-13\MongoDb\Dotnet_FSE_SalonSpaBooking\SalonSpaBooking.DataLayer\obj\Debug\netcoreapp2.2\SalonSpaBooking.DataLayer.AssemblyInfo.cs
+D:\IIHT\Task-13\MongoDb\Dotnet_FSE_SalonSpaBooking\SalonSpaBooking.DataLayer\obj\Debug\netcoreapp2.2\SalonSpaBooking.DataLayer.csproj.CoreCompileInputs.cache
+D:\IIHT\Task-13\MongoDb\Dotnet_FSE_SalonSpaBooking\SalonSpaBooking.DataLayer\obj\Debug\netcoreapp2.2\SalonSpaBooking.DataLayer.csproj.CopyComplete
+D:\IIHT\Task-13\MongoDb\Dotnet_FSE_SalonSpaBooking\SalonSpaBooking.DataLayer\obj\Debug\netcoreapp2.2\SalonSpaBooking.DataLayer.dll
+D:\IIHT\Task-13\MongoDb\Dotnet_FSE_SalonSpaBooking\SalonSpaBooking.DataLayer\obj\Debug\netcoreapp2.2\SalonSpaBooking.DataLayer.pdb

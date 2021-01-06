@@ -1,0 +1,14 @@
+D:\IIHT\Task-13\MongoDb\Dotnet_FSE_SalonSpaBooking\SalonSpaBooking.BusinessLayer\bin\Debug\netcoreapp2.2\SalonSpaBooking.BusinessLayer.deps.json
+D:\IIHT\Task-13\MongoDb\Dotnet_FSE_SalonSpaBooking\SalonSpaBooking.BusinessLayer\bin\Debug\netcoreapp2.2\SalonSpaBooking.BusinessLayer.dll
+D:\IIHT\Task-13\MongoDb\Dotnet_FSE_SalonSpaBooking\SalonSpaBooking.BusinessLayer\bin\Debug\netcoreapp2.2\SalonSpaBooking.BusinessLayer.pdb
+D:\IIHT\Task-13\MongoDb\Dotnet_FSE_SalonSpaBooking\SalonSpaBooking.BusinessLayer\bin\Debug\netcoreapp2.2\SalonSpaBooking.DataLayer.dll
+D:\IIHT\Task-13\MongoDb\Dotnet_FSE_SalonSpaBooking\SalonSpaBooking.BusinessLayer\bin\Debug\netcoreapp2.2\SalonSpaBooking.Entities.dll
+D:\IIHT\Task-13\MongoDb\Dotnet_FSE_SalonSpaBooking\SalonSpaBooking.BusinessLayer\bin\Debug\netcoreapp2.2\SalonSpaBooking.DataLayer.pdb
+D:\IIHT\Task-13\MongoDb\Dotnet_FSE_SalonSpaBooking\SalonSpaBooking.BusinessLayer\bin\Debug\netcoreapp2.2\SalonSpaBooking.Entities.pdb
+D:\IIHT\Task-13\MongoDb\Dotnet_FSE_SalonSpaBooking\SalonSpaBooking.BusinessLayer\obj\Debug\netcoreapp2.2\SalonSpaBooking.BusinessLayer.csprojAssemblyReference.cache
+D:\IIHT\Task-13\MongoDb\Dotnet_FSE_SalonSpaBooking\SalonSpaBooking.BusinessLayer\obj\Debug\netcoreapp2.2\SalonSpaBooking.BusinessLayer.AssemblyInfoInputs.cache
+D:\IIHT\Task-13\MongoDb\Dotnet_FSE_SalonSpaBooking\SalonSpaBooking.BusinessLayer\obj\Debug\netcoreapp2.2\SalonSpaBooking.BusinessLayer.AssemblyInfo.cs
+D:\IIHT\Task-13\MongoDb\Dotnet_FSE_SalonSpaBooking\SalonSpaBooking.BusinessLayer\obj\Debug\netcoreapp2.2\SalonSpaBooking.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\IIHT\Task-13\MongoDb\Dotnet_FSE_SalonSpaBooking\SalonSpaBooking.BusinessLayer\obj\Debug\netcoreapp2.2\SalonSpaBooking.BusinessLayer.csproj.CopyComplete
+D:\IIHT\Task-13\MongoDb\Dotnet_FSE_SalonSpaBooking\SalonSpaBooking.BusinessLayer\obj\Debug\netcoreapp2.2\SalonSpaBooking.BusinessLayer.dll
+D:\IIHT\Task-13\MongoDb\Dotnet_FSE_SalonSpaBooking\SalonSpaBooking.BusinessLayer\obj\Debug\netcoreapp2.2\SalonSpaBooking.BusinessLayer.pdb

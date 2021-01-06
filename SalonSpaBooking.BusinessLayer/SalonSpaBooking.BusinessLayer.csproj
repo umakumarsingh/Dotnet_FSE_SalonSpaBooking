@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <ProjectReference Include="..\SalonSpaBooking.DataLayer\SalonSpaBooking.DataLayer.csproj" />
+    <ProjectReference Include="..\SalonSpaBooking.Entities\SalonSpaBooking.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
